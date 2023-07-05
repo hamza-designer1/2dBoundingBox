@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-box2d-0001.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\unreal 5_2 Projects\deployedProject\Altroverse_LA\Intermediate\Build\Win64\x64\Altroverse_LAEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\unreal 5_2 Projects\deployedProject\Altroverse_LA\Plugins\box2d\Intermediate\Build\Win64\x64\UnrealEditor\Development\box2d\Module.box2d.cpp.obj"
+"D:\unreal 5_2 Projects\deployedProject\Altroverse_LA\Plugins\box2d\Intermediate\Build\Win64\x64\UnrealEditor\Development\box2d\Default.rc2.res"
+/OUT:"D:\unreal 5_2 Projects\deployedProject\Altroverse_LA\Plugins\box2d\Intermediate\Build\Win64\x64\UnrealEditor\Development\box2d\UnrealEditor-box2d-0001.lib"

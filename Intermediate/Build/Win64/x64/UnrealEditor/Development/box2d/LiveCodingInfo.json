@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.box2d.cpp.obj": [
+			"box2d.init.gen.cpp.obj",
+			"capture2dBox.gen.cpp.obj",
+			"box2d.cpp.obj",
+			"capture2dBox.cpp.obj"
+		]
+	}
+}
